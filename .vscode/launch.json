@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Dell/Desktop/GitHub/Coding Practice",
-      "program": "c:/Users/Dell/Desktop/GitHub/Coding Practice/build/Debug/outDebug",
+      "cwd": "c:/Users/Dell/Desktop/GitHub/Coding Practice/build/Debug",
+      "program": "c:/Users/Dell/Desktop/GitHub/Coding Practice/build/Debug/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
